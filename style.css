@@ -1,9 +1,9 @@
 .main {
   font-size: 50px;
   font-family: 'Comic Sans MS', Comic Sans;
-  color: cornsilk;
+  color: rgb(163, 226, 255);
 }
 
 body {
-  background-color: grey;
+  background-color: rgb(90, 22, 90);
 }

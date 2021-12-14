@@ -14,3 +14,9 @@ body {
   background-image: url("https://images-ext-2.discordapp.net/external/HX6KrX7byuQLLTCgBt3Q150JXxP7PMwdrnaZ6Oe9rr8/%3Fsize%3D2048/https/cdn.discordapp.com/banners/792405640504410112/d3472b9b4264a648196a35205543ae6b.jpg");
   background-size: cover;
 }
+
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px
+}
